@@ -56,14 +56,14 @@ print(l, p)
 print('----------------------------')
 
 
-def a(n):
+def aa(n):
     n1 = n
     n2 = int(str(n) * 2)
     n3 = int(str(n) * 3)
     print(n1 + n2 + n3)
 
 
-a(8)
+aa(8)
 
 print('---------------------------')
 
